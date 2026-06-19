@@ -1,0 +1,354 @@
+﻿# Lines starting with # are just comments.
+#
+# Data format:
+# country;flag(country)-code;city;IANA-timezone;
+#
+#
+# EUROPE ******************************
+#
+Åland Islands;ax;Mariehamn;Europe/Helsinki
+Albania;al;Tirana;Europe/Tirane
+Andorra;ad;Andorra la Vella;Europe/Andorra
+Austria;at;Vienna;Europe/Vienna
+Belarus;by;Minsk;Europe/Minsk
+Belgium;be;Brussels;Europe/Brussels
+Bosnia and Herzegovina;ba;Sarajevo;Europe/Sarajevo
+Bulgaria;bg;Sofia;Europe/Sofia
+Croatia;hr;Zagreb;Europe/Zagreb
+Cyprus;cy;Nicosia;Asia/Nicosia
+Czech Republic;cz;Prague;Europe/Prague
+Denmark;dk;Copenhagen;Europe/Copenhagen
+Estonia;ee;Tallinn;Europe/Tallinn
+Faroe Islands;fo;Tórshavn;Atlantic/Faroe
+Finland;fi;Helsinki;Europe/Helsinki
+France;fr;Paris;Europe/Paris
+Germany;de;Berlin;Europe/Berlin
+Gibraltar;gi;Gibraltar;Europe/Gibraltar
+Greece;gr;Athens;Europe/Athens
+Guernsey;gg;St. Peter Port;Europe/Guernsey
+Hungary;hu;Budapest;Europe/Budapest
+Iceland;is;Reykjavik;Atlantic/Reykjavik
+Ireland;ie;Dublin;Europe/Dublin
+Isle of Man;im;Douglas;Europe/Isle_of_Man
+Italy;it;Rome;Europe/Rome
+Jersey;je;Saint Helier;Europe/Jersey
+Kosovo;xk;Pristina;Europe/Belgrade
+Latvia;lv;Riga;Europe/Riga
+Liechtenstein;li;Vaduz;Europe/Vaduz
+Lithuania;lt;Vilnius;Europe/Vilnius
+Luxembourg;lu;Luxembourg (city);Europe/Luxembourg
+Malta;mt;Valletta;Europe/Malta
+Moldova;md;Chișinău;Europe/Chisinau
+Monaco;mc;Monaco;Europe/Monaco
+Montenegro;me;Podgorica;Europe/Podgorica
+Netherlands;nl;Amsterdam;Europe/Amsterdam
+North Macedonia;mk;Skopje;Europe/Skopje
+Norway;no;Oslo;Europe/Oslo
+Poland;pl;Warsaw;Europe/Warsaw
+Portugal;pt;Lisbon;Europe/Lisbon
+Madeira;pt;Funchal;Atlantic/Madeira
+Azores;pt;Ponta Delgada;Atlantic/Azores
+Romania;ro;Bucharest;Europe/Bucharest
+Russia;ru;Kaliningrad;Europe/Kaliningrad
+Russia;ru;Moscow;Europe/Moscow
+Russia;ru;Samara;Europe/Samara
+Russia;ru;Yekaterinburg;Asia/Yekaterinburg
+Russia;ru;Omsk;Asia/Omsk
+Russia;ru;Krasnoyarsk;Asia/Krasnoyarsk
+Russia;ru;Novosibirsk;Asia/Novosibirsk
+Russia;ru;Irkutsk;Asia/Irkutsk
+Russia;ru;Chita;Asia/Chita
+Russia;ru;Vladivostok;Asia/Vladivostok
+Russia;ru;Magadan;Asia/Magadan
+Russia;ru;Yuzhno-Sakhalinsk;Asia/Sakhalin
+Russia;ru;Srednekolymsk;Asia/Srednekolymsk
+Russia;ru;Anadyr;Asia/Anadyr
+Russia;ru;Petropavlovsk-Kamchatsky;Asia/Kamchatka
+San Marino;sm;San Marino;Europe/San_Marino
+Serbia;rs;Belgrade;Europe/Belgrade
+Slovakia;sk;Bratislava;Europe/Bratislava
+Slovenia;si;Ljubljana;Europe/Ljubljana
+Spain;es;Madrid;Europe/Madrid
+Canary Islands;es;Las Palmas;Atlantic/Canary
+Sweden;se;Stockholm;Europe/Stockholm
+Switzerland;ch;Bern;Europe/Zurich
+Ukraine;ua;Kyiv;Europe/Kyiv
+Ukraine;ua;Donetsk;Europe/Moscow
+United Kingdom;gb;London;Europe/London
+England;gb-eng;London;Europe/London
+Northern Ireland;gb-nir;Belfast;Europe/London
+Scotland;gb-sct;Edinburgh;Europe/London
+Wales;gb-wls;Cardiff;Europe/London
+Vatican City;va;Vatican City;Europe/Vatican
+#
+#
+# ASIA ******************************
+#
+Afghanistan;af;Kabul;Asia/Kabul
+Armenia;am;Yerevan;Asia/Yerevan
+Azerbaijan;az;Baku;Asia/Baku
+Bahrain;bh;Manama;Asia/Bahrain
+Bangladesh;bd;Dhaka;Asia/Dhaka
+Bhutan;bt;Thimphu;Asia/Thimphu
+Brunei;bn;Bandar Seri Begawan;Asia/Brunei
+Cambodia;kh;Phnom Penh;Asia/Phnom_Penh
+China;cn;Beijing;Asia/Shanghai
+Georgia;ge;Tbilisi;Asia/Tbilisi
+Hong Kong;hk;City of Victoria;Asia/Hong_Kong
+India;in;New Delhi;Asia/Kolkata
+Indonesia;id;Jakarta;Asia/Jakarta
+Indonesia;id;Makassar;Asia/Makassar
+Indonesia;id;Manokwari;Asia/Jayapura
+Iran;ir;Tehran;Asia/Tehran
+Iraq;iq;Baghdad;Asia/Baghdad
+Israel;il;Jerusalem;Asia/Jerusalem
+Japan;jp;Tokyo;Asia/Tokyo
+Jordan;jo;Amman;Asia/Amman
+Kazakhstan;kz;Nur-Sultan (Astana);Asia/Almaty
+North Korea;kp;Pyongyang;Asia/Pyongyang
+South Korea;kr;Seoul;Asia/Seoul
+Kuwait;kw;Kuwait City;Asia/Kuwait
+Kyrgyzstan;kg;Bishkek;Asia/Bishkek
+Laos;la;Vientiane;Asia/Vientiane
+Lebanon;lb;Beirut;Asia/Beirut
+Macau;mo;Macau;Asia/Macau
+Malaysia;my;Kuala Lumpur;Asia/Kuala_Lumpur
+Maldives;mv;Malé;Indian/Maldives
+Mongolia;mn;Hovd;Asia/Hovd
+Mongolia;mn;Ulaanbaatar;Asia/Ulaanbaatar
+Mongolia;mn;Choibalsan;Asia/Choibalsan
+Myanmar;mm;Naypyidaw;Asia/Yangon
+Nepal;np;Kathmandu;Asia/Kathmandu
+Oman;om;Muscat;Asia/Muscat
+Pakistan;pk;Islamabad;Asia/Karachi
+Palestine;ps;Ramallah;Asia/Hebron
+Philippines;ph;Manila;Asia/Manila
+Qatar;qa;Doha;Asia/Qatar
+Saudi Arabia;sa;Riyadh;Asia/Riyadh
+Singapore;sg;Singapore;Asia/Singapore
+Sri Lanka;lk;Colombo;Asia/Colombo
+Syria;sy;Damascus;Asia/Damascus
+Taiwan;tw;Taipei;Asia/Taipei
+Tajikistan;tj;Dushanbe;Asia/Dushanbe
+Thailand;th;Bangkok;Asia/Bangkok
+Timor-Leste;tl;Dili;Asia/Dili
+Turkey;tr;Ankara;Europe/Istanbul
+Turkmenistan;tm;Ashgabat;Asia/Ashgabat
+United Arab Emirates;ae;Abu Dhabi;Asia/Dubai
+Uzbekistan;uz;Tashkent;Asia/Tashkent
+Vietnam;vn;Hanoi;Asia/Ho_Chi_Minh
+Yemen;ye;Sanaa;Asia/Aden
+#
+#
+# North AMERICA ******************************
+#
+Anguilla;ai;The Valley;America/Anguilla
+Antigua and Barbuda;ag;Saint John's;America/Antigua
+Aruba;aw;Oranjestad;America/Aruba
+Bahamas;bs;Nassau;America/Nassau
+Barbados;bb;Barbados;America/Barbados
+Belize;bz;Belmopan;America/Belize
+Bermuda;bm;Hamilton;Atlantic/Bermuda
+Canada;ca;Vancouver;America/Vancouver
+Canada;ca;Edmonton;America/Edmonton
+Canada;ca;Winnipeg;America/Winnipeg
+Canada;ca;Toronto;America/Toronto
+Canada;ca;Halifax;America/Halifax
+Canada;ca;St. John's;America/St_Johns
+Caribbean Netherlands;bq;Kralendijk;America/Kralendijk
+Cayman Islands;ky;George Town;America/Cayman
+Costa Rica;cr;San José;America/Costa_Rica
+Cuba;cu;Havana;America/Havana
+Curaçao;cw;Willemstad;America/Curacao
+Dominica;dm;Roseau;America/Dominica
+Dominican Republic;do;Santo Domingo;America/Santo_Domingo
+El Salvador;sv;San Salvador;America/El_Salvador
+Greenland;gl;Nuuk;America/Godthab
+Grenada;gd;St. George's;America/Grenada
+Guadeloupe;gp;Basse-Terre;America/Guadeloupe
+Guatemala;gt;Guatemala City;America/Guatemala
+Haiti;ht;Port-au-Prince;America/Port-au-Prince
+Honduras;hn;Tegucigalpa;America/Tegucigalpa
+Jamaica;jm;Kingston;America/Jamaica
+Martinique;mq;Fort-de-France;America/Martinique
+Mexico;mx;Tijuana;America/Tijuana
+Mexico;mx;Hermosillo;America/Hermosillo
+Mexico;mx;Mexico City;America/Mexico_City
+Mexico;mx;Cancún;America/Cancun
+Montserrat;ms;Plymouth;America/Montserrat
+Nicaragua;ni;Managua;America/Managua
+Panama;pa;Panama City;America/Panama
+Puerto Rico;pr;San Juan;America/Puerto_Rico
+Saint Barthélemy;bl;Gustavia;America/St_Barthelemy
+Saint Kitts and Nevis;kn;Basseterre;America/St_Kitts
+Saint Lucia;lc;Castries;America/St_Lucia
+Saint Martin;fr;Marigot;America/Marigot
+Saint Pierre and Miquelon;pm;Saint-Pierre;America/Miquelon
+Saint Vincent and the Grenadines;vc;Kingstown;America/St_Vincent
+Sint Maarten;sx;Philipsburg;America/Lower_Princes
+Turks and Caicos Islands;tc;Cockburn Town;America/Grand_Turk
+United States;us;Honolulu;Pacific/Honolulu
+United States;us;Anchorage;America/Anchorage
+United States;us;San Francisco;America/Los_Angeles
+United States;us;Seattle;America/Los_Angeles
+United States;us;Los Angeles;America/Los_Angeles
+United States;us;Salt Lake City;America/Denver
+United States;us;Houston;America/Chicago
+United States;us;Chicago;America/Chicago
+United States;us;Atlanta;America/New_York
+United States;us;Miami;America/New_York
+United States;us;Washington D.C.;America/New_York
+United States;us;Philadelphia;America/New_York
+United States;us;New York;America/New_York
+United States;us;Boston;America/New_York
+British Virgin Islands;vg;Road Town;America/Tortola
+United States Virgin Islands;vi;Charlotte Amalie;America/St_Thomas
+#
+#
+# South AMERICA ******************************
+#
+Argentina;ar;Buenos Aires;America/Argentina/Buenos_Aires
+Bolivia;bo;Sucre;America/La_Paz
+Brazil;br;Rio Branco;America/Rio_Branco
+Brazil;br;Manaus;America/Manaus
+Brazil;br;Brasília;America/Sao_Paulo
+Brazil;br;São Paulo;America/Sao_Paulo
+Brazil;br;Fernando de Noronha;America/Noronha
+Chile;cl;Easter Island;Pacific/Easter
+Chile;cl;Santiago;America/Santiago
+Chile;cl;Punta Arenas;America/Punta_Arenas
+Colombia;co;Bogotá;America/Bogota
+Ecuador;ec;Quito;America/Guayaquil
+Ecuador;ec;Galapagos Islands;Pacific/Galapagos
+Falkland Islands;fk;Stanley;Atlantic/Stanley
+French Guiana;gf;Cayenne;America/Cayenne
+Guyana;gy;Georgetown;America/Guyana
+Paraguay;py;Asunción;America/Asuncion
+Peru;pe;Lima;America/Lima
+Suriname;sr;Paramaribo;America/Paramaribo
+Trinidad and Tobago;tt;Port of Spain;America/Port_of_Spain
+Uruguay;uy;Montevideo;America/Montevideo
+Venezuela;ve;Caracas;America/Caracas
+#
+#
+# AFRICA ****************************************
+#
+Algeria;dz;Algiers;Africa/Algiers
+Angola;ao;Luanda;Africa/Luanda
+Benin;bj;Porto-Novo;Africa/Porto-Novo
+Botswana;bw;Gaborone;Africa/Gaborone
+British Indian Ocean Territory;io;Diego Garcia;Indian/Chagos
+Burkina Faso;bf;Ouagadougou;Africa/Ouagadougou
+Burundi;bi;Gitega;Africa/Bujumbura
+Cameroon;cm;Yaoundé;Africa/Douala
+Cape Verde;cv;Praia;Atlantic/Cape_Verde
+Central African Republic;cf;Bangui;Africa/Bangui
+Chad;td;N'Djamena;Africa/Ndjamena
+Comoros;km;Moroni;Indian/Comoro
+Republic of the Congo;cg;Brazzaville;Africa/Brazzaville
+Democratic Rep. of the Congo;cd;Kinshasa;Africa/Kinshasa
+Democratic Rep. of the Congo;cd;Lubumbashi;Africa/Lubumbashi
+Côte d'Ivoire (Ivory Coast);ci;Yamoussoukro;Africa/Abidjan
+Djibouti;dj;Djibouti;Africa/Djibouti
+Egypt;eg;Cairo;Africa/Cairo
+Equatorial Guinea;gq;Malabo;Africa/Malabo
+Eritrea;er;Asmara;Africa/Asmara
+Eswatini (Swaziland);sz;Lobamba;Africa/Mbabane
+Ethiopia;et;Addis Ababa;Africa/Addis_Ababa
+Gabon;ga;Libreville;Africa/Libreville
+Gambia;gm;Banjul;Africa/Banjul
+Ghana;gh;Accra;Africa/Accra
+Guinea;gn;Conakry;Africa/Conakry
+Guinea-Bissau;gw;Bissau;Africa/Bissau
+Kenya;ke;Nairobi;Africa/Nairobi
+Lesotho;ls;Maseru;Africa/Maseru
+Liberia;lr;Monrovia;Africa/Monrovia
+Libya;ly;Tripoli;Africa/Tripoli
+Madagascar;mg;Antananarivo;Indian/Antananarivo
+Malawi;mw;Lilongwe;Africa/Blantyre
+Mali;ml;Bamako;Africa/Bamako
+Mauritania;mr;Nouakchott;Africa/Nouakchott
+Mauritius;mu;Port Louis;Indian/Mauritius
+Mayotte;yt;Mamoudzou;Indian/Mayotte
+Morocco;ma;Rabat;Africa/Casablanca
+Mozambique;mz;Maputo;Africa/Maputo
+Namibia;na;Windhoek;Africa/Windhoek
+Niger;ne;Niamey;Africa/Niamey
+Nigeria;ng;Abuja;Africa/Lagos
+Reunion;re;Saint-Denis;Indian/Reunion
+Rwanda;rw;Kigali;Africa/Kigali
+Saint Helena, Ascension and Tristan da Cunha;sh;Jamestown;Atlantic/St_Helena
+São Tomé and Príncipe;st;São Tomé;Africa/Sao_Tome
+Senegal;sn;Dakar;Africa/Dakar
+Seychelles;sc;Victoria;Indian/Mahe
+Sierra Leone;sl;Freetown;Africa/Freetown
+Somalia;so;Mogadishu;Africa/Mogadishu
+South Africa;za;Pretoria;Africa/Johannesburg
+South Sudan;ss;Juba;Africa/Juba
+Sudan;sd;Khartoum;Africa/Khartoum
+Tanzania;tz;Dodoma;Africa/Dar_es_Salaam
+Togo;tg;Lomé;Africa/Lome
+Tunisia;tn;Tunis;Africa/Tunis
+Uganda;ug;Kampala;Africa/Kampala
+Western Sahara;eh;El Aaiún;Africa/El_Aaiun
+Zambia;zm;Lusaka;Africa/Lusaka
+Zimbabwe;zw;Harare;Africa/Harare
+#
+#
+# OCEANIA ******************************
+#
+American Samoa;as;Pago Pago;Pacific/Pago_Pago
+
+Australia;au;Perth;Australia/Perth
+Australia;au;Eucla;Australia/Eucla
+Australia;au;Darwin;Australia/Darwin
+Australia;au;Adelaide;Australia/Adelaide
+Australia;au;Melbourne;Australia/Melbourne
+Australia;au;Canberra;Australia/Sydney
+Australia;au;Sydney;Australia/Sydney
+Australia;au;Brisbane;Australia/Brisbane
+Australia;au;Lord Howe Island;Australia/Lord_Howe
+
+Christmas Island;cx;Flying Fish Cove;Indian/Christmas
+Cocos (Keeling) Islands;cc;West Island;Indian/Cocos
+Cook Islands;ck;Avarua;Pacific/Rarotonga
+Fiji;fj;Suva;Pacific/Fiji
+French Polynesia;pf;Papeete;Pacific/Tahiti
+French Polynesia;pf;Taiohae;Pacific/Marquesas
+French Polynesia;pf;Gambier Islands;Pacific/Gambier
+Guam;gu;Hagåtña;Pacific/Guam
+Kiribati;ki;South Tarawa;Pacific/Tarawa
+Marshall Islands;mh;Majuro;Pacific/Majuro
+Micronesia;fm;Palikir;Pacific/Pohnpei
+Nauru;nr;Yaren;Pacific/Nauru
+New Caledonia;nc;Noumea;Pacific/Noumea
+New Zealand;nz;Wellington;Pacific/Auckland
+Niue;nu;Alofi;Pacific/Niue
+Norfolk Island;nf;Kingston;Pacific/Norfolk
+Northern Mariana Islands;mp;Saipan;Pacific/Saipan
+Palau;pw;Ngerulmud;Pacific/Palau
+Papua New Guinea;pg;Port Moresby;Pacific/Port_Moresby
+Pitcairn Islands;pn;Adamstown;Pacific/Pitcairn
+Samoa;ws;Apia;Pacific/Apia
+Solomon Islands;sb;Honiara;Pacific/Guadalcanal
+Tokelau;tk;Fakaofo;Pacific/Fakaofo
+Tonga;to;Nuku'alofa;Pacific/Tongatapu
+Tuvalu;tv;Funafuti;Pacific/Funafuti
+Vanuatu;vu;Port Vila;Pacific/Efate
+Wallis and Futuna;wf;Mata-Utu;Pacific/Wallis
+#
+#
+#Others ******************************
+#
+French Southern and Antarctic Lands;tf;Port-aux-Francais;Indian/Kerguelen
+Antarctica;aq;Carlini Base;Antarctica/Palmer
+Antarctica;aq;Palmer Station;Antarctica/Palmer
+Antarctica;aq;Troll Station;Antarctica/Troll
+Antarctica;aq;Mawson;Antarctica/Mawson
+Antarctica;aq;Vostok Station;Antarctica/Vostok
+Antarctica;aq;Davis;Antarctica/Davis
+Antarctica;aq;Casey;Antarctica/Casey
+Antarctica;aq;Dumont d'Urville Station;Antarctica/DumontDUrville
+Antarctica;aq;Mario Zucchelli Station;Antarctica/Terre_Adele
+South Georgia;gs;King Edward Point;Atlantic/South_Georgia
+Svalbard and Jan Mayen;sj;Longyearbyen;Europe/Oslo

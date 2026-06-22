@@ -341,7 +341,8 @@ public partial class ClockForm : Form
         // clockManager.UpdatePositionsAllClocks(this.Width, this.Height);  - I am rather calling this method in clockTimer_Tick()
 
         this.Invalidate();
-      
+        this.Refresh();  // **FIX: Force immediate repaint to avoid lag**
+
     }
 
     private void ResizeButton_MouseUp(object? sender, MouseEventArgs e)

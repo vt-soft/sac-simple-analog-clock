@@ -1,13 +1,13 @@
 # SAC - Simple Analog Clock
-Analog clocks for your desktop. Application for people working with colleagues/companies from different time zones.
+* Analog clocks for your desktop. Application for people working with colleagues/companies from different time zones.
 
-![Windows Forms](https://img.shields.io/badge/Made%20with-WinForms-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+  ![Windows Forms](https://img.shields.io/badge/Made%20with-WinForms-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
 ## OS
-Windows 
+* Windows 
 
 ## Usage
-Using the application is very intuitive. For more information please visit: https://www.vt-soft.com/sac-simple-analog-clock-manual
+* Using the application is very intuitive. For more information please visit: https://www.vt-soft.com/sac-simple-analog-clock-manual
 
 ## Screenshots
 <img width="1600" height="1200" alt="sac-simple-analog-clock-00" src="https://github.com/user-attachments/assets/8a29f9cf-b6fc-4e45-82fd-b74c3d6524af" />

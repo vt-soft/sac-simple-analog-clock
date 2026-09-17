@@ -1,8 +1,10 @@
 # SAC - Simple Analog Clock
 Analog clocks for your desktop. Application for people working with colleagues/companies from different time zones.
 
-## Platform
-Windows (Windows Forms)
+![Windows Forms](https://img.shields.io/badge/Made%20with-WinForms-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+
+## OS
+Windows 
 
 ## Usage
 Using the application is very intuitive. For more information please visit: https://www.vt-soft.com/sac-simple-analog-clock-manual
@@ -13,16 +15,16 @@ Using the application is very intuitive. For more information please visit: http
 <img width="1600" height="1200" alt="sac-simple-analog-clock-04" src="https://github.com/user-attachments/assets/6eecfab4-9169-4ce5-99d9-d8257f4b9625" />
 
 
-
-
 ## Features
 * Customizable clock appearance (national flag, second hand, clock size, clock name).
 * Customizable clock layout: horizontal or vertical - at any position of your desktop.
 * Customizable graphical representation of working hours in a given country.
 
-
-# Known issues
+## Known issues
  * No known issues so far.
 
 ## License
-* MIT License.  Free for any personal or commercial use.
+* MIT License.  Free for personal or commercial use.
+
+## Download
+* Check the [Releases](https://github.com/vt-soft/sac-simple-analog-clock/releases) section for latest .exe installer or for source codes.
